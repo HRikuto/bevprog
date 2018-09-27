@@ -1,7 +1,7 @@
 #include "std_lib_facilities.h"
 
 int main()
-{	cout << "Write me two integer for the black magic: \n";
+{	cout << "Write me two integers for the black magic: \n";
 	int a;
 	int b;
 	cin >> a >> b;

@@ -11,7 +11,7 @@ int main()
 	b = a-b;
 	a = a-b;
 	cout << "b=a-b=" << b << "\n" << "a=a-b=" << a << "\n";
-	return 0;
+		return 0;
 	
 	
 }
